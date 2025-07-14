@@ -19,7 +19,6 @@ This is a *Login & Registration Form* built with pure *HTML*, *CSS*, and *JavaSc
 ## 📁 Project Structure
 
 login-register-project/        ← Root folder of your project<br>
-│
 ├── index.html                 ← Main HTML file (the UI structure)<br>
 ├── style.css                  ← CSS file (styles the form and page)<br>
 ├── script.js                  ← JavaScript file (makes the forms interactive)<br>
